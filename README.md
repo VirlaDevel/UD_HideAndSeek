@@ -9,7 +9,7 @@ The player is informed with sound cues for:
 - the end of game
 
 ## Software and Hardware
-The project was conducted with the Unreal Engine 4.15.3, the Oculus Audio Plugin and some additional ".wav files" downloaded from www.freesound.org have been used. The environment was provided by udacity's project team "Learn Unreal VR Foundations" as template. Additional assets (mobile phone, goal poste, and hands) were designed by the project team with ZBrush 4R8 and Maya 2018. The project has been tested with the HTC Vive with a constant framerate of 90 FPS, but should work with the Oculus Rift as well. To optimize render quality and frame rate trade off, motion blur, bloom, auto-exposure and forward rendering as been adapted. Additionally, *VR best practices* (https://docs.unrealengine.com/en-us/Platforms/VR/ContentSetup) have been implemented in the Config\DefaultEngine.INI-File.
+The project was conducted with the Unreal Engine 4.15.3, the Oculus Audio Plugin and some additional ".wav files" downloaded from www.freesound.org have been used. The environment was provided by udacity's project team "Learn Unreal VR Foundations" as template. Additional assets (mobile phone, goal poste, and hands) were designed by the project team with ZBrush 4R8 and Maya 2018. The project has been tested with the HTC Vive with a constant framerate of 90 FPS, but should work with the Oculus Rift as well. To optimize render quality and frame rate trade off, motion blur, bloom, auto-exposure and forward rendering as been adapted. Additionally, *VR-best-practices* (https://docs.unrealengine.com/en-us/Platforms/VR/ContentSetup) have been implemented in the *Config\DefaultEngine.INI-File*.
 
 ## Blueprints
 ### General description
